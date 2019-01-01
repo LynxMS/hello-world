@@ -19,9 +19,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fmarchioni/ocpdemos/nodejs-basic"
+    "url": "https://github.com/LynxMS/hello-world"
   },
-  "author": "Francesco Marchioni <fmarchio@redhat.com>",
+  "author": "MS",
   "license": "CC-BY-1.0",
-  "homepage": "http://www.mastertheboss.com"
+  "homepage": "http://www.ms.com"
 }
