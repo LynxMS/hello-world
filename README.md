@@ -1,2 +1,2 @@
 # hello-world
-Repo for Hello World app in Niode.js
+Repo for Hello World app in Node.js
